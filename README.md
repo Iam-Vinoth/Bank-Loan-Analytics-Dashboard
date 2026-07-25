@@ -1,14 +1,12 @@
 # Bank Loan Analytics Dashboard (Power BI)
 
-## Project Overview
+ **Project Overview**
 
 This project presents an interactive Power BI dashboard for analysing bank loan performance. It provides insights into loan applications, funded amounts, repayments, interest rates, DTI ratio, loan status, and customer behaviour.
 
----
+**Dashboard Pages**
 
-## Dashboard Pages
-
-### 1. Summary Dashboard
+ **1. Summary Dashboard**
 
 - Total Loan Applications
 - Total Loan Amount
@@ -21,17 +19,15 @@ This project presents an interactive Power BI dashboard for analysing bank loan 
 - Loan Purpose Analysis
 - Loan Tenure Analysis
 
-### 2. Overview Dashboard
-
+ **2. Overview Dashboard**
+ 
 - Good Loan vs Bad Loan
 - Funded Amount vs Repayment
 - Loan Status
 - Interest Rate Analysis
 - DTI Ratio Analysis
 
----
-
-## KPIs
+ **KPIs**
 
 - Total Loan Applications
 - Total Loan Amount
@@ -39,18 +35,15 @@ This project presents an interactive Power BI dashboard for analysing bank loan 
 - Average Interest Rate
 - Average DTI
 
----
-
-## Tools Used
+ **Tools Used**
 
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
+- SQL
 
----
-
-## Dataset
+ **Dataset**
 
 The dataset contains customer loan information including:
 
@@ -64,9 +57,7 @@ The dataset contains customer loan information including:
 - DTI
 - Funded Amount
 
----
-
-## Project Features
+ **Project Features**
 
 - Interactive Filters
 - KPI Cards
@@ -76,8 +67,6 @@ The dataset contains customer loan information including:
 - Map Visual
 - Line Chart
 - Loan Performance Analysis
-
----
 
 ## Dashboard Preview
 
@@ -91,6 +80,6 @@ The dataset contains customer loan information including:
 
 ---
 
-## Author
-
-Your Name# Bank-Loan-Analytics-Dashboard
+Done By:
+Vinoth.M
+lINKEDIN URL : www.linkedin.com/in/m-vinoth-1326122b4
