@@ -83,11 +83,12 @@ The dataset contains customer loan information including:
 
 ### Overview
 
-![Overview](Images/overview-dashboard.png)
+![Overview](./overview-dashboard.png)
 
 ### Summary
 
-![Summary](Images/summary-dashboard.png)
+![Summary](./summary-dashboard.png)
+
 ---
 
 ## Author
