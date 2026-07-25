@@ -1,4 +1,4 @@
-# Bank Loan Analytics Dashboard (Power BI)
+# Bank Loan Analytics Dashboard
 
  **Project Overview**
 
